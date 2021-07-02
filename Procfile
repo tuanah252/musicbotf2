@@ -1,1 +1,1 @@
-worker: python bot.js
+worker: python config/bot.js
