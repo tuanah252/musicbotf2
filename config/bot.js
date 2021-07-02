@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODYwNTU4MjU2NjE0NTM5MzE1.YN8_VA.tFU1MiCoxD2DD6yh8hSu2IjLVpw',
+        token: 'TOKEN',
         prefix: '0',
         activity: 'Choi Dua Tinh Cam',
     },
